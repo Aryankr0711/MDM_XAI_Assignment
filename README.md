@@ -51,12 +51,14 @@ Custom industrial dataset for defect detection at:
 ## Sample Images
 
 ### Example 1: Defective Component (Not OK)
-![Not OK Sample](Dataset/Renamed_Not_OK/2022.jpg)  
-*Industrial component with defects detected*
+![Not OK Sample - Defective Industrial Component](Dataset/Renamed_Not_OK/2022.jpg)  
+**Status:** Not OK ❌  
+*Industrial component exhibiting defects detected by the model*
 
 ### Example 2: Defect-Free Component (OK)
-![OK Sample](Dataset/Renamed_Ok/23.jpg)  
-*Perfectly manufactured industrial component without defects*
+![OK Sample - Perfect Industrial Component](Dataset/Renamed_Ok/23.jpg)  
+**Status:** OK ✓  
+*Perfectly manufactured industrial component without any defects*
 
 ---
 

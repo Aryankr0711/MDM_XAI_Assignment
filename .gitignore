@@ -1,5 +1,7 @@
-# Dataset - Do NOT push to GitHub
+# Dataset - Do NOT push to GitHub (except sample images)
 Dataset/
+!Dataset/Renamed_Not_OK/2022.jpg
+!Dataset/Renamed_Ok/23.jpg
 combined_all/
 
 # Python
